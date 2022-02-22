@@ -1,0 +1,5 @@
+Shopify as 3rd-party
+	* shopify.com
+		_ shopify.com *
+		_ shopifycdn.com *
+		_ shopifysvc.com *
