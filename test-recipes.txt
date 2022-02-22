@@ -1,3 +1,8 @@
+! uMatrix: Ruleset recipes 1.0
+! Title: Test-recipes
+! Maintainer: MUS (multiusersystem@fastmail.com)
+!
+
 Shopify as 3rd-party
 	* shopify.com
 		_ shopify.com *
