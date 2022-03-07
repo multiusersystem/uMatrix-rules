@@ -8,3 +8,8 @@ Shopify as 3rd-party
 		_ shopify.com *
 		_ shopifycdn.com *
 		_ shopifysvc.com *
+
+recaptcha.net as 3rd-party
+	* recaptcha.net
+		- recaptcha.net	
+		- www.recaptcha.net	frame
