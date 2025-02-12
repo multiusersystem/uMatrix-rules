@@ -15,6 +15,5 @@ recaptcha.net as 3rd-party
 		_ www.recaptcha.net	frame
 
 Google Translate as 3rd-party
-	* translate.google.com
-		_ translate.googleapis.com xhr
+	* translate.googleapis.com
 		_ translate-pa.googleapis.com xhr
