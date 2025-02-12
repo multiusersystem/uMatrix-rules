@@ -11,5 +11,5 @@ Shopify as 3rd-party
 
 recaptcha.net as 3rd-party
 	* recaptcha.net
-		- recaptcha.net	
-		- www.recaptcha.net	frame
+		_ recaptcha.net	
+		_ www.recaptcha.net	frame
