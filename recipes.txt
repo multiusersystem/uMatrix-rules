@@ -8,7 +8,7 @@ Shopify as 3rd-party
 		_ shopify.com *
 		_ shopifycdn.com *
 		_ shopifysvc.com *
-
+		_ shop.app *
 recaptcha.net as 3rd-party
 	* recaptcha.net
 		_ recaptcha.net	
