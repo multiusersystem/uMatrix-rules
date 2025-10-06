@@ -17,3 +17,8 @@ recaptcha.net as 3rd-party
 Google Translate as 3rd-party
 	* translate.googleapis.com
 		_ translate-pa.googleapis.com xhr
+
+Cloudflare challenges
+	* cloudflare.com
+		_ cloudflare.com *
+		_ challenges.cloudflare.com	frame
